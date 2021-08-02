@@ -1,0 +1,4 @@
+Develop a calculator program which runs continually and first will ask the user " Would
+you like to close the calculator? " if the user type "yes" the program will end, else it will
+take the operator then two numbers , and print the result depending on the type of the
+operator. (Note that in division you need to handle the division by zero).
